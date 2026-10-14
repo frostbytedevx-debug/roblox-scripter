@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [FrostByte] 👋
 
 I’m a Roblox scripter focused on creating clear, fun, and reliable gameplay systems with **Luau**. I enjoy turning game ideas into interactive features—from player progression and collectibles to responsive doors and UI-connected mechanics.
 
@@ -81,8 +81,7 @@ A collectible coin system that lets players pick up coins and receive a reward. 
 
 ## Let’s connect
 
-- Roblox: **[Your Roblox username]**
-- Portfolio: **[Your portfolio link]**
-- Contact: **[Your preferred contact method]**
+- Roblox Username: **[FrostByte_10000]**
+- Discard username: **[frostbytedevx]**
 
 Thanks for visiting my profile. I’m continuing to learn, build, and improve with every project.
