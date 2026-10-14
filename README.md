@@ -43,7 +43,6 @@ A mining-focused Roblox project where players can interact with a core gameplay 
 - Player interaction systems
 - Organizing scripts for a larger project
 
-`Project link: [Add Minerush link or repository]`
 
 ### 🚪 Door System
 
@@ -54,9 +53,7 @@ A reusable door system for Roblox experiences. It focuses on making doors respon
 - Player-triggered door interaction
 - Open/close behavior
 - Reusable setup for multiple doors
-- Room for future permissions, keys, or animations
-
-`Project link: [Add Door System link or repository]`
+- Room for future permissions, keys, or animation
 
 ### 🪙 Coin System
 
