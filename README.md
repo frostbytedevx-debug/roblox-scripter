@@ -2,7 +2,6 @@
 
 I’m a Roblox scripter focused on creating clear, fun, and reliable gameplay systems with **Luau**. I enjoy turning game ideas into interactive features—from player progression and collectibles to responsive doors and UI-connected mechanics.
 
-> Replace the bracketed placeholders with your own details before publishing.
 
 ## About me
 
